@@ -1,0 +1,4 @@
+colorama
+googlesearch-python
+urllib3==1.26.15
+six
